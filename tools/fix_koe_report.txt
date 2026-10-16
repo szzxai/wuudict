@@ -1,0 +1,11 @@
+BEFORE 干儿子 | jie1 er2 tsy3 | kø55 ȵi223-33 ·tsɿ | ct=["1","2",""]
+AFTER  干儿子 | koe1 gni2 tsy3 | kø55 ȵi223-33 ·tsɿ
+BEFORE 碗店 | uoe3 tse5 | uø51 tsᴇ523-33 | ct=["3","5"]
+AFTER  碗店 | uoe3 tie5 | uø51 tsᴇ523-33
+char BEFORE 干 | r=koe1 | ipa=kø55 | g=["koe1","jie1"]
+char AFTER  干 | r=koe1 | ipa=kø55 | g=["koe1","koe1"]
+char BEFORE 儿 | r= | ipa= | g=["gni2","er2"]
+char AFTER  儿 | r=gni2 | ipa= | g=["gni2","gni2"]
+char BEFORE 店 | r=tie5 | ipa=ti523 | g=["tie5","tse5"]
+char AFTER  店 | r=tie5 | ipa=ti523 | g=["tie5","tie5"]
+changed marks: 4

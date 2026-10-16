@@ -1,0 +1,14 @@
+FAIL thou1→thōu → "thōu" (期望 "thōu")
+FAIL gha2→ghá → "ghá" (期望 "ghá")
+FAIL bi2→bí → "bí" (期望 "bí")
+OK   自成音节/无元音 ts1 → "tsˉ"
+FAIL tsy1 → y 上标 → "tsȳ" (期望 "tsȳ")
+OK   入声7不标 → "aeq"
+OK   入声8不标 → "ghoq"
+FAIL on6 → ô (o优先) → "ôn" (期望 "ô")
+--- 数字式 ---
+FAIL 拖鞋皮 mark 式 → "thōu ghá bí" (期望 "thōu ghá bí")
+FAIL 拖鞋皮 mark+ct一致 → "thōu ghá bí" (期望 "thōu ghá bí")
+OK   括号轻声不标 → "（taeq）"
+OK   破折号+括号 → "—（taeq）"
+OK   空串 → ""

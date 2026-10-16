@@ -1,0 +1,23 @@
+conv keys: s2tChars, s2tPhrases, t2sChars, t2sPhrases
+  s2tChars: type=object size=3980
+  s2tPhrases: type=object size=49051
+  t2sChars: type=object size=4113
+  t2sPhrases: type=object size=277
+s2tChars[发]="發" t2sChars=undefined
+s2tChars[复]="復" t2sChars=undefined
+s2tChars[干]="幹" t2sChars=undefined
+s2tChars[后]="後" t2sChars=undefined
+s2tChars[里]="裏" t2sChars=undefined
+s2tChars[面]="面" t2sChars=undefined
+s2tChars[历]="歷" t2sChars=undefined
+s2tChars[制]="制" t2sChars=undefined
+s2tChars[种]="種" t2sChars=undefined
+s2tChars[重]=undefined t2sChars=undefined
+s2tChars[汇]="匯" t2sChars=undefined
+chars records: 2681
+chars with def: 954, multi-reading: 336
+single-char entries: 952
+chars not single-entry: 1729
+bad indices: 0, bad containment: 0
+复 entry: {"w":"复","r":"feq7","i":"fəʔ43","d":["重新来一遍"],"x":["钞票吾点过哉，倷阿要～一～","钞票吾点过哉，倷阿要~一~"],"m":0}
+复 char: {"c":"复","r":"feq7","d":["重新来一遍"],"x":["钞票吾点过哉，倷阿要～一～","钞票吾点过哉，倷阿要~一~"],"g":[["voq8",[8151]]]}

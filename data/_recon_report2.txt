@@ -1,0 +1,53 @@
+dj[0].ipa: [/tsɿ55 sʮ55/] ent[0].i: [tsɿ55 sʮ55]
+ipa match: 8345 diff: 82
+ID i=17 紫葛叶 dj:[/ /] ent:[]
+ID i=26 掇 dj:[/ /] ent:[]
+ID i=29 字纸头 dj:[/ /] ent:[]
+ID i=162 胡师太 dj:[/ /] ent:[]
+ID i=1247 野野豁豁 dj:[/ /] ent:[]
+ID i=1277 歪头申公豹 dj:[/ /] ent:[]
+ID i=1520 东山老虎吃人，西山老虎匣要吃人 dj:[/ /] ent:[]
+ID i=1558 糟蛋 dj:[</div>] ent:[tsæ55 dᴇ31-21]
+ID i=1601 两面黄 dj:[</div>] ent:[liã31 miɪ31-33 ɦuɑ̃13-21]
+ID i=1616 金花草 dj:[</div>] ent:[tɕin55 ho55-33 tsʰæ51-21]
+m=1 count: 141
+M1 i=115 w=茨菰 r=zy kou d=["多年生草本植物，长在水田里，地下茎作圆球状，可以食用"]
+M1 i=179 w=主婚人 r=tsyu huen zen d=["新郎、新娘双方的父亲，如果父亲去世，则由长辈伯父、叔父作主婚人，旧时女性不能作主婚人"]
+M1 i=242 w=水草 r=se tshau d=["长在水中的藻类植物，常用来做肥料"]
+M1 i=583 w=鸡毛当令箭 r=ci mau taon lin tsie d=["把人家随便讲的一句话当作命令来执行"]
+M1 i=641 w=起草稿 r=chi tshau kau d=["开始写草稿"]
+M1 i=693 w=二纽 r=gni ngeu d=["秤上第二个纽，称轻物用"]
+M1 i=763 w=衣裳管 r=i zaon kuoe d=["衣袖"]
+M1 i=1137 w=茄子 r=ga tsy d=["一种蔬菜"]
+M1 i=1138 w=茄花 r=ga ho d=["茄子开的花，淡紫色"]
+M1 i=1139 w=茄门 r=ga men d=["不感兴趣"]
+M1 i=1140 w=骱 r=ga d=["关节的总称，四肢都有骱，脱臼叫脱骱"]
+M1 i=1141 w=骱子 r=ga tsy d=["关节的总称，四肢都有骱，脱臼叫脱骱"]
+M1 i=1142 w=解 r=ga d=["①将系好的东西松开","②稠的东西变稀","③对某件事情不感兴趣"]
+M1 i=1143 w=解缆 r=ga le d=["将缆绳解开"]
+M1 i=1144 w=解纽子 r=ga ngeu tsy d=["解开扣好的纽子"]
+M1 i=1485 w=萝卜梗 r=lou boq kan d=["萝卜缨子"]
+M1 i=1500 w=老茄茄 r=lau ga ga d=["年龄并不大，但知道的事很多，自以为是"]
+M1 i=1558 w=糟蛋 r=tsau de d=["用酒糟（香糟）腌制的鸭蛋，以浙江平湖产的最为有名"]
+M1 i=1601 w=两面黄 r=lian mie waon d=["面条的一种吃法。煮熟的面条放在油锅中炒，待面条发黄即得。特点是香脆可口，如果用虾仁做浇头，则称虾仁炒面"]
+M1 i=1616 w=金花草 r=cin ho tshau d=["扑克牌有四种图案，状如金花菜的黑色图案叫草花，老苏州说“金花草”"]
+M1 i=1725 w=搞嘴讲 r=gau tsyu ciaon d=["两人为了一些无足轻重的事而辩论不休，有贬义"]
+M1 i=1726 w=搞七廿三 r=gau tshia gnia sa d=["瞎搞"]
+M1 i=1727 w=搞落 r=gau loq d=["花费"]
+M1 i=1773 w=表姐 r=piau tsia d=[""]
+M1 i=1774 w=表姊妹 r=piau tsi me d=[""]
+M1 i=2007 w=叫名 r=ciau min d=["虚岁"]
+M1 i=2120 w=瓣 r=be d=["量词"]
+M1 i=2161 w=番茄 r=fe ga d=["学名西红柿，一年生或二年生草本植物，结浆果，是普通的蔬菜"]
+M1 i=2192 w=万万 r=ve ve d=["常用在否定副词“勿”前面，加强否定语气"]
+M1 i=2299 w=耐末 r=ne meq d=["语气词，常表示结果，相当于“那么”"]
+chars keys: 2681
+chars sample 的: undefined
+chars sample 复: undefined
+conv keys: 4
+conv sample: {}
+conv 丝: undefined
+FU dj i=7376: {"word":"复","py":"feq7","ipa":"/fəʔ43/","cls":"","senses":[{"text":"重新来一遍","egs":["钞票吾点过哉，倷阿要～一～"]},{"text":"重新来一遍","egs":["钞票吾点过哉，倷阿要~一~"]}]}
+FU ent i=7376: {"w":"复","r":"feq7","i":"fəʔ43","d":["重新来一遍"],"x":["钞票吾点过哉，倷阿要～一～","钞票吾点过哉，倷阿要~一~"],"m":0}
+FU chars 复: undefined
+ent[7376] x: ["钞票吾点过哉，倷阿要～一～","钞票吾点过哉，倷阿要~一~"]

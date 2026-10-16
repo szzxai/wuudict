@@ -1,0 +1,16 @@
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const load = f => JSON.parse(fs.readFileSync(path.join(root, f), 'utf8').replace(/^window\.WUU_[A-Z]+=/, '').replace(/;\s*$/, ''));
+const ent = load('data/entries.js');
+const chars = load('data/chars.js');
+const o = [];
+const W = s => o.push(s);
+W('词条含 pi2 音节: ' + ent.filter(e => e.r.split(/\s+/).includes('pi2')).map(e => e.w).slice(0, 12).join(','));
+W('词条含 pi 开头音节: ' + ent.filter(e => e.r.split(/\s+/).some(t => t.replace(/\d+$/, '').startsWith('pi'))).length);
+W('字头 r=pi2: ' + chars.filter(c => c.r === 'pi2').map(c => c.c).join(','));
+W('字头 g 标签 pi2: ' + chars.filter(c => c.g.some(g => g[0] === 'pi2')).map(c => c.c).join(','));
+W('字头 r=bi2: ' + chars.filter(c => c.r === 'bi2').map(c => c.c).join(','));
+fs.writeFileSync(path.join(root, 'tools/probe_pi2_out.txt'), o.join('\n'), 'utf8');
+console.log(o.join('\n'));

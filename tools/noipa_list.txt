@@ -1,0 +1,68 @@
+缺音标词条: 46
+17 紫葛叶 | r=tsy3 keq7 yiq8 | ct=["3","7","8"] | m=0
+26 掇 | r=teq7 | ct=["7"] | m=0
+29 字纸头 | r=zy6 tsy3 deu2 | ct=["6","3","2"] | m=0
+162 胡师太 | r=ghou2 sy1 tha5 | ct=["2","1","5"] | m=0
+1247 野野豁豁 | r=ya6 ya6 huaeq7 huaeq7 | ct=["6","6","7","7"] | m=0
+1277 歪头申公豹 | r=hua1 deu2 sen1 kon1 pau5 | ct=["1","2","1","1","5"] | m=0
+1668 越剧 | r=yuq8 jiq8 | ct=["8","8"] | m=0
+1686 狗皮膏药 | r=keu3 bi2 kau1 yaq8 | ct=["3","2","1","8"] | m=0
+1783 裱 | r=piau3 | ct=["3"] | m=0
+1887 马桶豁筅 | r=mo6 don6 huaeq7 sie | ct=["6","6","7",""] | m=0
+2259 小书 | r=siau3 syu1 | ct=["3","1"] | m=0
+2501 赚铜钱 | r=zon6 don2 zie2 | ct=["6","2","2"] | m=0
+2561 颜大 | r=nge2 dou6 | ct=["2","6"] | m=0
+2574 眼眼调碰着眼眼调 | r=nge6 nge6 diau2 ban6 zaq8 nge6 nge6 diau2 | ct=["6","6","2","6","8","6","6","2"] | m=0
+2577 眼乌 | r=nge6 ou1 | ct=["6","1"] | m=0
+2649 歇业 | r=shiq7 gniq8 | ct=["7","8"] | m=0
+2697 还手 | r=we2 seu3 | ct=["2","3"] | m=0
+2841 马桶呒不边──难掇 | r=mo6 don6 m2 peq7 pie1 — ne2 teq7 | ct=["6","6","2","7","1","","2","7"] | m=0
+3054 话搭头 | r=gho6 taeq7 deu2 | ct=["6","7","2"] | m=0
+3138 满裆裤 | r=moe6 tan1 khou5 | ct=["6","1","5"] | m=0
+3586 猢狲屁股 | r=weq8 sen1 phi5 kou1 | ct=["8","1","5","1"] | m=0
+3668 电工 | r=die6 kon1 | ct=["6","1"] | m=0
+3836 揵水晶木梢 | r=jie2 syu3 cin1 moq8 sau1 | ct=["2","3","1","8","1"] | m=0
+3837 掮 | r=jie syu cin moq8 sau | ct=["","","","",""] | m=0
+3850 阎王 | r=gnie2 waon2 | ct=["2","2"] | m=0
+4007 水豆腐 | r=syu3 deu6 vu6 | ct=["3","6","6"] | m=0
+4074 急惊风碰着慢郎中 | r=ciq7 cin1 fon1 ban6 zaq8 me6 laon2 tson1 | ct=["7","1","1","6","8","6","2","1"] | m=0
+4585 头窠蛋 | r=deu2 khou1 de6 | ct=["2","1","6"] | m=0
+5727 呒本钿生意 | r=m2 pen3 die2 san1 i5 | ct=["2","3","2","1","5"] | m=0
+5829 机帆船 | r=ci1 ve2 zoe2 | ct=["1","2","2"] | m=0
+6693 萝卜空心哉 | r=lau2 poq8 khon1 sin1 tse | ct=["2","8","1","1",""] | m=0
+6786 水氽 | r=syu3 then3 | ct=["3","3"] | m=0
+6787 氽脱 | r=then3 theq7 | ct=["3","7"] | m=0
+7155 拆贡老寿星 | r=tshaq7 kon5 lau1 zeu6 sin1 | ct=["7","5","1","6","1"] | m=0
+7255 脚碰脚 | r=ciaq7 ban6 ciaq7 | ct=["7","6","7"] | m=0
+7339 勿碍紧 | r=feq7 nge6 cin3 | ct=["7","6","3"] | m=0
+7363 亮眼瞎子 | r=lian6 nge6 haeq7 tsy3 | ct=["6","6","7","3"] | m=0
+7548 疙里疙瘩 | r=keq7 li6 keq7 taeq7 | ct=["7","6","7","7"] | m=1
+7666 跌坏 | r=tiq7 wa5 | ct=["7","5"] | m=0
+7725 渍卓 | r=tsiq7 tsoq7 | ct=["7","7"] | m=0
+7726 烂 | r=le6 | ct=["6"] | m=0
+7808 西南风呒不家主婆 | r=si1 noe2 fon1 m2 peq7 ka1 tsyu3 bu2 | ct=["1","2","1","2","7","1","3","2"] | m=0
+7829 结出 | r=ciq7 tsheq7 | ct=["7","7"] | m=0
+7946 三眼一板 | r=se1 pe6 iq7 nge3 | ct=["1","6","7","3"] | m=0
+8001 一百五 | r=iq7 paq7 ng2 | ct=["7","7","2"] | m=0
+8110 石驳岸 | r=zaq8 poq7 ngoe6 | ct=["8","7","6"] | m=0
+
+缺音标字头(有拼音): 19
+  掇 r=teq7
+  醒 r=sin3
+  箭 r=tsie5
+  以 r=i1
+  搞 r=gau6
+  裱 r=piau3
+  凡 r=ve2
+  环 r=gue2
+  馈 r=gue6
+  郊 r=ciau1
+  泔 r=koe1
+  掮 r=jie syu cin moq sau
+  爵 r=tsiaq7
+  共 r=gon6
+  总 r=tson3
+  膈 r=kaq7
+  螫 r=saq7
+  删 r=se1
+  𣝗 r=weq8

@@ -1,0 +1,1 @@
+C:\Users\WILLIAMYANG\AppData\Local\Programs\Python\Python39\python.exe: can't open file 'E:\WILLIAMYANG\Documents\GitHub\wuudict\render.py': [Errno 2] No such file or directory

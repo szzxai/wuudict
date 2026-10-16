@@ -1,0 +1,91 @@
+char 骲 | r=jian2 | ipa=dʑiã223
+   g[jian2] n=1 idx=5138
+   d=["便宜"]
+   x=[]
+char 𠼢 | r=jian2 | ipa=
+   g[jian2] n=1 idx=5139
+   d=["便宜"]
+   x=[]
+char 五 | r=ng6 | ipa=ŋ̍223
+   g[ng2] n=39 idx=7,57,101,630,1127,1167,1168,1236,1932,1953,2306,2384,2386,2387,2662,2663,3178,3412,4766,4783,4784,4785,4787,4788,4789
+   g[ou3] n=8 idx=2399,4726,4727,4728,4729,4730,4737,4786
+   d=["名词后缀，只用在以下几个词中","数目"]
+   x=["囡～（女儿）|小娘～（女孩子）|小干～（男孩）|筷～（筷子）"]
+char 儿 | r=gni2 | ipa=
+   g[gni2] n=7 idx=628,670,1235,4353,5146,5281,6172
+   g[gni2] n=10 idx=866,901,1357,1948,2783,3289,4303,4733,4734,8165
+   d=[]
+   x=[]
+
+含五词条: 47
+  滋五十六 | tsy1 ng6 zeq8 loq8 | tsɿ55 ŋ̍31-33 zəʔ23 loʔ23
+  私囡五 | sy1 noe6 ng2 | sɿ55 nø31-33 ·ŋ̍
+  四舍五入 | sy5 so3 ng6 zeq8 | sɿ523-55 so51-33 ŋ̍31-33 zəʔ23-2
+  寄囡五 | ci5 ngoe2 ng2 | tɕiᶽ523-55 ŋø223-33 ·ŋ̍
+  嫁囡五 | ka5 noe6 ng2 | kɑ523-51 nø31-33 ·ŋ̍
+  外孙囡五 | nga6 san1 noe2 ng2 | ŋɑ31-223 sã55-33 nø223-33 ·ŋ̍
+  外甥囡五 | nga6 san1 noe2 ng2 | ŋɑ31-223 sã55-33 nø223-33 ·ŋ̍
+  爷囡五两家头 | ya2 ngoe6 ng2 lian6 ka1 deu2 | ɦiɑ223 ŋø31 ·ŋ̍ liã31 kɑ55 ·døʏ
+  小干五 | siau3 koe1 ng2 | siæ51 kø55 ·ŋ̍
+  小娘五 | siau3 gnian2 ng2 | siæ51 ȵiã223-33 ·ŋ̍
+  内侄囡五 | ne6 zeq8 noe2 ng2 | nᴇ31-223 zəʔ23-2 nø223-33 ·ŋ̍
+  三番五次 | se1 fe1 ng6 tshy5 | sᴇ55 fᴇ55-33 ŋ̍31-33 tsʰɿ523-21
+  三万五千个 | se1 ve6 ng6 tshie1 keq7 | sᴇ55 vᴇ31 ŋ̍31 tsʰi55-33 ·kə
+  三万五千个 | se1 me6 ng6 tshie1 keq7 | sᴇ55 mᴇ31 ŋ̍31 tsʰi55-33 ·kə
+  三年五载 | se1 gnie2 ou3 tse3 | sᴇ55 ȵi223-33 əu51-33 tsᴇ51-21
+  筷五 | khue5 ng2 | kʰuᴇ523-55 ·ŋ̍
+  筷五箸笼 | khue5 ng2 zyu6 lon2 | kʰuᴇ523-55 ·ŋ̍ zʮ31-33 loŋ223-21
+  囡五 | noe2 ng2 | nø223 ·ŋ̍
+  玄孙囡五 | yoe2 sen1 noe2 ng2 | ɦiø223 sən55-33 nø223-33 ·ŋ̍
+  五官 | ou3 kuoe1 | əu51-55 kuø55-21
+  五湖四海 | ou3 ghou2 sy5 he3 | əu51-55 ɦəu223-33 sɿ523-55 hᴇ51-21
+  五脏 | ou3 zaon6 | əu51-55 zɑ̃31-21
+  五人墓 | ou3 zen2 mou6 | əu51-55 zən223-33 məu31-21
+  五谷 | ou3 koq7 | əu51 koʔ43-2
+  二百五 | er6 paq7 ou3 | əl31-223 pɑʔ43-2 əu51-21
+  五 | ng2 | ŋ̍223
+  五 | ng6 | ŋ̍31
+  五号 | ng6 ghau6 | ŋ̍31 ɦæ31-21
+  五花八门 | ng6 ho1 poq7 men2 | ŋ̍31 ho55 poʔ43-2 mən223-33
+  五花八门 | ou1 ho1 poq7 men2 | əu55 ho55 poʔ43-2 mən223-33
+  五千 | ng6 tshie1 | ŋ̍31-223 tsʰi55-33
+  五斗橱 | ng6 teu3 zyu2 | ŋ̍31-223 tøʏ51-33 zʮ223-21
+  五香来白糖 | ng6 shian1 le2 baq8 daon2 | ŋ̍31-223 ɕiã55 lᴇ223-33 bɑʔ23 dɑ̃223-21
+  五香豆 | ng6 shian1 deu6 | ŋ̍31-223 ɕiã55 døʏ31-21
+  五十 | ng6 zeq7 | ŋ̍31-223 zəʔ43-2
+  五十一 | ng6 zeq8 iq7 | ŋ̍31-223 zəʔ23 iəʔ43-2
+  五个 | ng6 keq7 | ŋ̍31-223 ·kəʔ
+  两百五十 | lian6 paq7 ng6 seq7 | liã31-223 pɑʔ43-2 ŋ̍31-33 səʔ43-2
+  两百五 | lian6 paq7 ng6 | liã31 pɑʔ5-2 ŋ̍31-33
+  娘囡五两家头 | gnian2 noe6 ng2 lian6 ka1 deu2 | ȵiã223 nø31-33 ·ŋ̍ liã31-33 kɑ55-33 ·døʏ
+  挡筷五 | taon5 khue5 ng2 | tɑ̃523-51 kʰuᴇ523-33 ·ŋ̍
+  孙囡五 | sen1 noe2 ng2 | sən55 nø223-33 ·ŋ̍
+  侄囡五 | zeq8 noe2 ng2 | zəʔ23 nø223 ·ŋ̍
+  铁筷五 | thiq7 khue5 ng2 | tʰiəʔ43 kʰuᴇ523-33 ·ŋ̍
+  一百五十 | iq7 paq7 ng6 seq7 | iəʔ43 pɑʔ43 ŋ̍31 səʔ43-2
+  一百五 | iq7 paq7 ng2 | 
+  一百五十个 | iq7 paq7 ng6 seq7 keq7 | iəʔ43 pɑʔ43 ŋ̍31 səʔ43-2 ·kəʔ
+
+含儿词条: 17
+  寄儿子 | ci5 gni2 tsy3 | tɕiᶽ523-55 ȵiᶽ223-33 ·tsɿ
+  儿子 | gni2 tsy3 | ȵiᶽ223 ·tsɿ
+  女儿节 | gniu6 er2 tsiq7 | ȵyᶽ31-223 əl223-33 tsiəʔ43
+  巴儿狗 | pa1 er2 keu3 | pɑ55 əl223-33 køʏ51-21
+  爷儿子两家头 | ya2 gni2 tsy3 lian6 ka1 deu2 | ɦiɑ223 ȵiᶽ223-33 ·tsɿ liã31-33 kɑ55-33 ·døʏ
+  髦儿戏 | mau2 er2 shi5 | mæ223 əl223-33 ɕiᶽ523-21
+  小儿科 | siau3 er2 khou1 | siæ51 əl223-33 kʰəu55-21
+  扒儿手 | bo2 er2 seu3 | bo223 əl223-33 søʏ51-21
+  干儿子 | koe1 gni2 tsy3 | kø55 ȵi223-33 ·tsɿ
+  幼儿园 | ieu3 er2 yoe2 | y51 əl223-33 ɦiø223-21
+  大儿子 | dou6 gni2 tsy3 | dəu31-223 ȵiᶽ223-33 ·tsɿ
+  儿戏 | er2 shi5 | əl223 ɕiᶽ523-33
+  儿科 | er2 khou1 | əl223 kʰəu55-33
+  娘儿子两家头 | gnian2 gni2 tsy3 lian6 ka1 deu2 | ȵiã223 ȵiᶽ223-33 ·tsɿ liã31-33 kɑ55-33 ·dø
+  养儿子 | yan6 gni2 tsy3 | ɦiã31 ȵiᶽ223-33 ·tsɿ
+  领得来葛（儿子） | lin6 teq7 le2 keq7 （gni2） tsy3 | lin31-223 ·təʔ ·lᴇ ·kəʔ （ȵiᶽ223 ·tsɿ）
+  托儿所 | thoq7 er2 sou3 | tʰoʔ43 əl223-33 səu51-21
+
+含骲词条: 1
+  骲 | jian2 | dʑiã223
+含𠼢词条: 1
+  𠼢 | jian2 | dʑiã13

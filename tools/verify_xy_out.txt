@@ -1,0 +1,10 @@
+char 也 r=ghaeq8 ipa=ɦaʔ23 d=["副詞，也"] g=[["ghaeq8",3]] x=3条
+char 匣 r=ghaeq8 ipa=ɦaʔ23 d=["匣子"] g=[["ghaeq8",2]] x=0条
+char 五 r=ng6 ipa=ŋ̍31 d=["數目"] g=[["ng6",22],["ou3",6]] x=0条
+✓ 也 | ghaeq8 | ɦaʔ23
+✓ 连…也 | lie2 ghaeq8 | li223 ɦaʔ23-2
+✓ 拜匣 | pa5 ghaeq8 | pɑ523-55 ɦaʔ23-2
+✓ 骨灰匣 | kueq7 hue1 ghaeq8 | kuəʔ43 huᴇ55 ɦaʔ23-2
+残留副词匣: 0
+索引异常: 0
+拜匣 d=["长方形扁扁的木匣，旧时拜客时放帖子用"]

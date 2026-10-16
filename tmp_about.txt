@@ -1,0 +1,32 @@
+function viewAbout() {
+  main.innerHTML = '';
+  const pane = el('div', 'pane about');
+  pane.appendChild(el('h2', '', T('關於東吳詞典')));
+  pane.appendChild(el('p', '', T('《東吳詞典》（wuudict）是一個吳語在線詞典，現開設「蘇州閑話」板塊，以後擬陸續增加其他方言點。')));
+  pane.appendChild(el('h3', '', T('詞庫來源')));
+  pane.appendChild(el('p', '', T('詞條、釋義同例句，依據叶祥苓《蘇州方言詞典》（《現代漢語方言大詞典》分卷，江蘇教育出版社 1993）詞典正文（約 8400 條）整理錄入。')));
+  pane.appendChild(el('h3', '', T('注音方案')));
+  pane.appendChild(el('p', '', T('採用吳語學堂式拼音（蘇州話）。全站拼音一律帶調，聲調以調類數字表示，綴於音節之後；亦可在「設置」中切換為《吳語拼音文正字法（蘇州話）》的聲調附標式。')));;;
+  const tbl = el('table');
+  tbl.innerHTML = '<tr><th>調類</th><th>1 陰平</th><th>2 陽平</th><th>3 陰上</th><th>5 陰去</th><th>6 陽上去</th><th>7 陰入</th><th>8 陽入</th></tr>' +
+    '<tr><th>調值</th><td>55</td><td>223</td><td>51</td><td>523</td><td>231</td><td>43</td><td>23</td></tr>' +
+    '<tr><th>數字</th><td>-1</td><td>-2</td><td>-3</td><td>-5</td><td>-6</td><td>-7</td><td>-8</td></tr>' +
+    '<tr><th>附標</th><td>ā</td><td>á</td><td>à</td><td>ǎ</td><td>â</td><td>-q（不標）</td><td>-q（不標）</td></tr>';
+  pane.appendChild(tbl);
+  pane.appendChild(el('p', '', T('蘇州話陽上併入陽去，故無第 4 調；輕聲（音標中以 · 表示）不標調。「設置」中可選擇拼音按連讀變調（依吳語學堂記錄的詞中調值）抑或本字調（各字引用調）顯示。')));;;
+  pane.appendChild(el('p', '', T('音標（IPA）一律保留吳語學堂詞典記錄的調值與連讀變調。')));;;
+  pane.appendChild(el('h3', '', T('檢索說明')));
+  const ul = el('ul');
+  for (const s of [
+    '繁體檢索：輸入繁體字，自動轉爲簡體後查詞。',
+    '簡體檢索：直接以簡體查詞。',
+    '吳語拼音檢索：輸入吳拼音節（如 tsyu、ghou、thie），支持音節前綴匹配，聲調數字可省略。',
+    '自動模式：純拉丁字母判爲吳拼，其餘判爲漢字。',
+  ]) { const li = el('li'); li.textContent = T(s); ul.appendChild(li); }
+  pane.appendChild(ul);
+  pane.appendChild(el('h3', '', T('鳴謝')));
+  pane.appendChild(el('p', '', T('詞庫電子文本參考了吳語學堂（wugniu.com）社區志願者整理錄入的蘇州閒話詞典數據；繁簡轉換採用 OpenCC 詞表。特此致謝。')));;;
+  main.appendChild(pane);
+  document.title = '關於 — 東吳詞典';
+}
+

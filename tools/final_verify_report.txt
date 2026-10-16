@@ -1,0 +1,21 @@
+app.js 长度: 26494
+app.js 含 iᶽ 映射: false / yᶽ: false / ieu=y: true / ie=i: true
+app.js 关于页表格已转换: true
+app.js title 已转换: 7 处
+app.js 塒 错字已清: true
+app.js j→dʑ: true | gn→ȵ: true
+
+iᶽ: 1124  yᶽ: 132  ʮ: 496  øʏ: 950  dʑ: 174  ȵ: 642  ŋ̍: 110  m̩: 39  n̩: 5
+残留旧符号: 7 四四十六，二八十六,还算,花纽头,花纽头,下颏肉,捏
+声调序列差异(对照原始, 应仅剩历史修复): 37
+
+样例:
+  拖鞋皮 | thou1 gha2 bi2 | tʰəu55 ɦɑ13-33 biᶽ13-21
+  旗袍 | ji2 bau2 | dʑiᶽ223 bæ223-21
+  旗袍裙 | ji2 bau2 jiun2 | dʑiᶽ223 bæ223-33 dʑyn223-21
+  私盐 | sy1 ye2 | sɿ55 ɦi223-21
+  眉毛云 | mi2 mau2 yun2 | miᶽ223 mæ223-33 ɦyn223-21
+  滋五十六 | tsy1 ng6 zeq8 loq8 | tsɿ55 ŋ̍31-33 zəʔ23 loʔ23
+  纸头 | tsy3 deu2 | tsɿ51 ·døʏ
+  猪油 | tsyu1 yeu2 | tsʮ55 ɦy223-21
+  皮球 | bi2 jieu2 | biᶽ223 dʑy223-33

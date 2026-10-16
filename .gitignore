@@ -1,0 +1,10 @@
+# Worker 开发密钥与本地运行状态
+.dev.vars*
+.wrangler/
+node_modules/
+
+# 源词典 PDF（受版权保护，不入库）
+*.pdf
+
+# 数据抓取与解析中间产物
+data/raw/

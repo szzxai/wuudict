@@ -1,0 +1,11 @@
+ng2 → ńg  [n上?是]
+ng6 → n̂g  [n上?是]
+n6 → n̂  [n上?是]
+m2 → ḿ  [n上?否]
+m6 → m̂  [n上?否]
+n4 → n  [n上?否]
+thou1 → thōu  [n上?否]
+gha2 → ghá  [n上?否]
+ng → ng
+on6 → ôn  [n上?否]
+wordWithLinks 含 <a>: false

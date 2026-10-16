@@ -1,0 +1,33 @@
+OK   guessMode(thou1) → "py"
+OK   guessMode(thōu) → "py"
+OK   guessMode(thou) → "py"
+OK   guessMode(tshóu 附标) → "py"
+OK   guessMode(拖鞋) → "hanzi"
+OK   guessMode(thou gha) → "py"
+OK   p(thou1) base → "thou"
+OK   p(thou1) tone → 1
+OK   p(thōu) tone → 1
+OK   p(thōu) base → "thou"
+OK   p(ghá) tone → 2
+OK   p(bì) tone → 3
+OK   p(ǎ 附标5) → 5
+OK   p(â) tone → 6
+OK   p(aeq7) → 7
+OK   p(aeq) 无调 → null
+OK   拖鞋皮 syls → "[\"thou1\",\"gha2\",\"bi2\"]"
+OK   match thou(无调) → true
+OK   match thou1 → true
+OK   match thou2 (调不对) → false
+OK   match tho 前缀 → true
+OK   match pōu 附标1 → true
+FAIL p(ô 预组合) → "{\"base\":\"thou\",\"tone\":6}"
+OK   p(ô NFD) → "{\"base\":\"thou\",\"tone\":6}"
+
+搜索 thou gha bi（无调）: ["拖鞋皮|thou1 gha2 bi2"]
+搜索 thou1 gha2 bi2（数字）: ["拖鞋皮|thou1 gha2 bi2"]
+搜索 thōu ghá bí（附标）: ["拖鞋皮|thou1 gha2 bi2"]
+搜索 t（单前缀，前5）: ["疻水|tsy1 syu1","锥|tsy1","锥|tsyu1","锥钻|tsy1 tsoe1","锥钻|tsyu1 tsoe1"]
+搜索 pi2（数字）: []
+搜索 tsyu（旧例）: ["锥|tsyu1","锥钻|tsyu1 tsoe1","之|tsyu1"]
+字头 pi2: []
+字头 bi2: ["平:","牛:","皮:bi2","脾:bi2","鐾:bi2","嫖:biau2"]

@@ -1,0 +1,11 @@
+import fs from 'fs';
+const h = fs.readFileSync('data/raw/suzhou_dict.html', 'utf8');
+const parts = h.split('panel panel-success').slice(1);
+const raw = parts[1];
+console.log('--- raw first 500 ---');
+console.log(JSON.stringify(raw.slice(0, 500)));
+const headEnd = raw.indexOf('</div>\n        <div class="panel-body">');
+console.log('headEnd:', headEnd);
+const body = headEnd >= 0 ? raw.slice(headEnd) : raw;
+const m = body.match(/<div class="dictDetail center-block">([\s\S]*?)<\/div>/);
+console.log('detail match:', m && m[1]);

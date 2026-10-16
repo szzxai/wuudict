@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>東吳詞典 · 蘇州閑話</title>
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>吳</text></svg>">
+</head>
+<body>
+<header id="topbar">
+  <div class="brand-row">
+    <a class="brand" href="#/home">東吳詞典<span class="brand-sub">wuudict</span></a>
+    <nav class="sections">
+      <a class="section active" href="#/home" data-sec="suzhou">蘇州</a>
+      <span class="section disabled" title="建設中">上海</span>
+      <span class="section disabled" title="建設中">杭州</span>
+    </nav>
+    <div class="header-tools">
+      <button id="scriptToggle" class="tool-btn" title="切換繁簡顯示">簡</button>
+      <button id="toneStyleToggle" class="tool-btn" title="切換聲調數字／附標">符</button>
+      <button id="toneDataToggle" class="tool-btn" title="切換連讀變調／本字調">本</button>
+      <button id="ipaToggle" class="tool-btn" title="切換中派／新派讀音">新</button>
+      <a class="tool-btn mail-tool" href="#/mail" title="信箱">✉<span id="mailBadge" class="mail-badge" hidden>0</span></a>
+      <a class="tool-btn" id="accountBtn" href="#/account" title="登入或註冊">登入</a>
+      <a class="tool-btn" href="#/about" title="關於">ⓘ</a>
+    </div>
+  </div>
+  <div class="search-row">
+    <div class="search-box">
+      <select id="searchMode" title="檢索方式">
+        <option value="auto">自動</option>
+        <option value="t">繁體</option>
+        <option value="s">簡體</option>
+        <option value="py">吳語拼音</option>
+      </select>
+      <input id="q" type="text" placeholder="查詞語、單字或吳語拼音（如 tsyu、ghou）" autocomplete="off">
+      <button id="searchBtn">查詢</button>
+    </div>
+    <div class="quick-links">
+      <a href="#/idx">音序索引</a>·<a href="#" id="randomBtn">隨機詞條</a>
+    </div>
+  </div>
+  <div class="back-row"><button id="backBtn" class="back-btn">◀ 返回</button></div>
+</header>
+<main id="main"></main>
+<footer id="foot">
+  <p>《東吳詞典》蘇州閑話板塊 · 詞庫依據叶祥苓《蘇州方言詞典》（現代漢語方言大詞典分卷）</p>
+  <p>拼音採用吳語學堂式拼音（蘇州話，帶調類數字）· <a href="#/about">關於本站</a></p>
+</footer>
+<script src="data/conv.js"></script>
+<script src="data/entries.js"></script>
+<script src="data/chars.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,58 @@
+=== applyToneMark ===
+function applyToneMark(py, digit) {
+  if (!digit) return py;
+  if (!TONE_COMB[digit]) return py; // 7/8 與輕聲不標
+  let idx = -1;
+  if (/^(?:m|n|ng)$/.test(py)) {
+    idx = py.length - 1; // 自成音節鼻音：標在末尾鼻音字母上
+  } else {
+    idx = py.indexOf('a');
+    if (idx < 0) idx = py.indexOf('o');
+    if (idx < 0) idx = py.indexOf('e');
+    if (idx < 0) {
+      for (let k = py.length - 1; k >= 0; k--) {
+        const ch = py[k];
+        if (ch === 'i' || ch === 'u' || ch === 'y') { idx = k; break; }
+      }
+    }
+  }
+  if (idx < 0) return py + (TONE_SPACER[digit] || ''); // 無元音可標（純聲母音節）：用間隔符號
+  return py.slice(0, idx + 1) + TONE_COMB[digit] + py.slice(idx + 1);
+}
+
+/* 把一條拼音按當前設置格式化；ct 為本字調數字數組（可空） */
+function fmtPy(r, ct) {
+  return String(r || '').split(/\s+/).map((t, k) => {
+    if (!/[a-z]/i.test(t) || /^[—…]+$/.test(t)) return t;
+    const m = t.match(/^([（(]*)([a-z]+)(\d*)([）),，]*)$/);
+    if (!m) return t;
+    let digit = m[3];
+    if (toneData === 'cite' && ct && ct[k]) digit = ct[k];
+    const core = toneStyle === 'mark' ? applyToneMark(m[2], digit) : m[2] + digit;
+    return m[1] + core + m[4];
+  }).join(' ');
+}
+/* 讀音組標籤（單字引用本調） */
+function fmtGroupPy(label) {
+  return fmtPy(label, null);
+}
+
+/* 拼音 → IPA（依《蘇州方言詞典》聲韻調對照表），用於讀音組標籤的音標展示 */
+const PY_RHYME_IPA = {
+  a: 'ɑ', aeq: 'aʔ', an: 'ã', 
+=== 搜索结果行 ===
+alt at -1
+
+=== href 模式 ===
+'#/w/ @9997
+'#/c/ @10520
+'#/w/ @12091
+'#/c/ @15800
+'#/w/ @17289
+'#/w/ @20687
+'#/idx/ @21766
+'#/c/ @22440
+'#/w/ @24698
+'#/s/ @28875
+'#/s/ @29044
+'#/w/ @29483

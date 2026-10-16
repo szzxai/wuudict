@@ -1,0 +1,9 @@
+dict.json: 8427 entries
+entries.js: 8427 entries
+dj[0]: {"word":"疻水","py":"tsy syu","ipa":"/tsɿ55 sʮ55/","cls":"","senses":[{"text":"皮肤因擦破后红肿或生疮流出来的淋巴液，跟脓水有别","egs":[]}]}
+dj[1]: {"word":"锥","py":"tsy1","ipa":"/tsɿ55/","cls":"","senses":[{"text":"①动词，用锥子钻","egs":["拿把锥钻～个洞 。"]},{"text":"②动词，用冷语侵人","egs":["俚讲得葛起劲，吾边浪～俚一声，弄得俚下勿落台。（他讲得很带劲儿，我在一旁刺他一句，弄得他下不了台。）"]}]}
+ent[0]: {"w":"疻水","r":"tsy syu","i":"tsɿ55 sʮ55","d":["皮肤因擦破后红肿或生疮流出来的淋巴液，跟脓水有别"],"x":[],"m":0}
+both: 8287
+ent not in dj: 140 ["茨菰|zy kou","主婚人|tsyu huen zen","水草|se tshau","鸡毛当令箭|ci mau taon lin tsie","起草稿|chi tshau kau","二纽|gni ngeu","衣裳管|i zaon kuoe","茄子|ga tsy","茄花|ga ho","茄门|ga men"]
+dj not in ent: 141 ["茨菰|茨菰","主婚人|ʦʮ huen zen","水草|syu tshau","鸡毛当令箭|ci mau taon lin tsie","起草稿|chi ʦʰau kau","二纽|gni ngeu(或gnieu)","衣裳管|i zaon kuoe","茄子|ɡa tsy","茄花|ɡa ho","茄门|ɡa men"]
+sense mismatches in first 2000: 7

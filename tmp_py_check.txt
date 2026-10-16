@@ -1,0 +1,5 @@
+size: 1505349
+head repr: '[\n {\n  "word": "疻水",\n  "py": "tsy syu",\n  "ipa": "/tsɿ55 sʮ55/",\n  "cls": "",\n  "senses": [\n   {\n    "text": "皮肤因擦破后红肿或生'
+tail repr: 'ipa": "/ioʔ43 in55 dɑ̃223-21/",\n  "cls": "",\n  "senses": [\n   {\n    "text": "慈善机构，收养被遗弃的婴儿",\n    "egs": []\n   }\n  ]\n }\n]'
+VALID, entries: 8427
+sample0: {'word': '疻水', 'py': 'tsy syu', 'ipa': '/tsɿ55 sʮ55/', 'cls': '', 'senses': [{'text': '皮肤因擦破后红肿或生疮流出来的淋巴液，跟脓水有别', 'egs': []}]}

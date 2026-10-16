@@ -1,0 +1,123 @@
+== 统计 ==
+音节来源: IPA反推 0  仅顺序修正 8174  保留旧词形 221  粘连拆分 0  m=1对齐 128  IPA清理 0
+调号来源: IPA值 18770  本调表 1056  入声规则 1
+未定调（非轻声）: 11
+  ? 马桶豁筅 | sie | 
+  ? 磨□ | huan | mo223 huã
+  ? ���梭子 | tsy | ɦiø223 səu55 ·tsɿ
+  ? 掮 | jie | 
+  ? 掮 | syu | 
+  ? 掮 | cin | 
+  ? 掮 | sau | 
+  ? 病壳子（疒） | tsy | bin31 kʰoʔ43-2 ·tsɿ
+  ? 萝卜空哉 | tse | kʰoŋ55 ·tsᴇ
+  ? 萝卜空心哉 | tse | 
+  ? 得 | le | təʔ43 ·lᴇ
+IPA 空: 47
+IPA 无法反推: 1
+  ? 肚皮惹 | dəu,bi,z | dou6 bi2 za6
+词形保留（与反推有差异）: 21
+  # 紫草叶 [2] tsau→tshau | tsy3 tshau3 yiq8 | tsɿ51 tsæ51-33 ɦiəʔ23-2
+  # 推屎克螂 [1] theu→the | the1 sy3 kheq7 laon2 | tʰʏ55 sɿ51 kʰəʔ5-2 lɑ̃13-33
+  # 书坊店 [2] fan→faon | syu1 faon1 tie5 | sʮ55 fã55-33 tiɪ523-21
+  # 胖眼婆 [1] phan→phaon | phaon5 nge6 bu2 | pʰã523-55 ŋᴇ31-33 bu13-21
+  # 时鲜货 [3] hen→hou | zyu2 sie1 hou5 | zʮ223 siɪ55-33 hən523-21
+  # 吃饭家生 [1] shiq→chiq | chiq7 ve6 ka1 san1 | ɕiəʔ5 vᴇ31-33 kɑ55 sã55-21
+  # 外面 [2] mi→mie | nga6 mie6 | ŋɑ31-13 ·mi
+  # 日逐 [2] jioq→zoq | gniq8 zoq8 | ȵiəʔ3 dʑioʔ3
+  # 㾂奤奤 [2] poq→phoq | he1 phoq7 phoq7 | hᴇ55 poʔ5-2 poʔ5-2
+  # 㾂奤奤 [3] poq→phoq | he1 phoq7 phoq7 | hᴇ55 poʔ5-2 poʔ5-2
+  # 论千人 [1] en→len | len2 tshie1 gnin2 | ən13 tsʰiɪ55-33 ȵin13-21
+  # 论千个 [3] gnin→keq | len2 tshie1 keq2 | lən13 tsʰiɪ55-33 ȵin13-21
+  # 碰膀碰脚 [4] ciaeq→ciaq | ban6 phaon3 ban6 ciaq7 | bã31-13 pʰɑ̃51-33 bã31-33 tɕiaʔ5-2
+  # 放屁豆 [1] fan→faon | faon5 phi5 deu6 | fã523-21 pʰi523-33 dʏ31-21
+  # 刚 [1] cian→ciaon | ciaon1 | tɕiã55
+  # 肾 [1] zen→ze | ze6 | zən31
+  # 中浪向 [3] shiaon→shian | tson1 laon6 shian5 | tsoŋ55 ·lɑ̃ ·ɕiɑ̃
+  # 空心菜 [1] kon→khon | khon1 sin1 tshe5 | koŋ55 sin55-33 tsʰᴇ523-21
+  # 郁 [1] iueq→iuq | iuq7 | yəʔ43
+  # 郁郁交 [1] iueq→iuq | iuq7 iuq7 ciau1 | yəʔ5 yəʔ5 ·tɕiæ
+  # 郁郁交 [2] iueq→iuq | iuq7 iuq7 ciau1 | yəʔ5 yəʔ5 ·tɕiæ
+结构性拼音改动: 0
+
+== 映射自测 ==
+  map(ɦin) = yin
+  map(ɦy) = yu
+  map(ɦiən) = yen
+  map(ɦiɪ) = ye
+  map(ɦyəʔ) = yuq
+  map(ɦyən) = yun
+  map(ɦuɑ̃) = waon
+  map(ɦuᴇ) = we
+  map(ɦi) = yi
+  map(tsɿ) = tsy
+  map(sʮ) = syu
+  map(tsʰiɪ) = tshie
+  map(ȵi) = gni
+  map(əu) = ou
+  map(iəʔ) = iq
+  map(læ) = lau
+
+== 校样 ==
+  拖鞋皮 | thou1 gha2 bi2 | tʰəu55 ɦɑ13-33 bi13-21
+  拖鞋 | thou1 gha2 | tʰəu55 ɦɑ223-21
+  水 | syu3 | sʮ51
+  皮 | bi2 | bi223
+  疻水 | tsy1 syu1 | tsɿ55 sʮ55
+  老伯伯 | lau6 paq7 paq7 | læ31-223 pɑʔ43 pɑʔ43
+  迷露醒 | mi2 lou6 sin3 | mi13 ləu31-33 sin51
+  鞋袜钿 | gha2 maeq8 die2 | ɦɑ223 maʔ23-2 diɪ223-21
+  越剧 | yuq8 jiq8 | 
+  疙里疙瘩 | keq7 li6 keq7 taeq7 | 
+  二 | gni6 | ȵi31
+  五 | ng2 | ŋ̍223
+  鱼 | ng2 | ŋ̍223
+  滋五十六 | tsy1 ng6 zeq8 loq8 | tsɿ55 ŋ̍31-33 zəʔ23 loʔ23
+  葛 | keq7 | ·kəʔ （或·kə）
+  紫菜 | tsy3 tshe5 | tsɿ51 tsʰᴇ523-21
+  纸头店 | tsy3 deu2 tie5 | tsɿ51 dʏ223-33 tiɪ523-21
+  工资 | kon1 tsy1 | koŋ55 tsɿ55-21
+  搞嘴讲 | gau6 tsyu3 ciaon3 | ɡæ31-223 tsʮ51 kɑ̃51-33
+  紫草叶 | tsy3 tshau3 yiq8 | tsɿ51 tsæ51-33 ɦiəʔ23-2
+  推屎克螂 | the1 sy3 kheq7 laon2 | tʰʏ55 sɿ51 kʰəʔ5-2 lɑ̃13-33
+  老阿爹 | lau6 aeq7 tia1 | læ31-223 aʔ43 tiɑ55
+  旅行袋 | li6 yin2 de2 | li31-223 ɦin223-33 dᴇ223-33
+  —（搭）子 | （taeq7） tsy3 | （taʔ43） tsɿ51-55
+  —子（搭） | tsy3 （taeq7） | tsɿ51-55 （taʔ43）
+  皮夹（子） | bi2 kaeq7 （tsy3） | bi223 kaʔ43-2 （·tsɿ）
+  钩子云 | keu1 tsy3 yun2 | kʏ55 ·tsɿ ɦyən13-21
+  常文戏 | zan2 siq7 ven2 | zã223 siəʔ43-2 vən223 ɕi523-21
+  一迷迷 | iq7 mi2 mi2 | iəʔ5 mi13-33 mi13-21
+  饼馒店 | pin3 moe2 tie5 | pin51-33 mø13-33 tiɪ523-21
+
+== chars 重建 ==
+字头数: 2681 无读音组: 6 有 ipa: 949
+  水 r=syu3 ipa=sʮ51 g=["syu3(166)","se3(1)"]
+  皮 r=bi2 ipa=bi223 g=["bi2(83)"]
+  鞋 r= ipa= g=["gha2(35)"]
+  拖 r=thou1 ipa=tʰəu55 g=["thou1(15)"]
+  鱼 r=ng2 ipa=ŋ̍223 g=["ng2(65)","yu2(3)"]
+  复 r=feq7 ipa=fəʔ43 g=["feq7(1)","voq8(1)"]
+  搭 r=taeq7 ipa=taʔ43 g=["taeq7(39)","thaeq7(1)"]
+  锥 r=tsy1 ipa=tsɿ55 g=["tsy1(2)","tsyu1(2)"]
+  葛 r=keq7 ipa=·kəʔ （或·kə） g=["keq7(30)"]
+  疻 r= ipa= g=["tsy1(1)"]
+　括号标签合并后残留: 0
+
+== 质量复核 ==
+含无调音节（多为轻声）: 34
+  ~ 去哉 | chi5 tse | tɕʰi523 ·tsᴇ
+  ~ 雨停哉 | yu6 din2 tse | ɦy31 din223 ·tsᴇ
+  ~ 雨勿落哉 | yu6 feq7 loq8 tse | ɦy31 fəʔ5 loʔ3 ·tsᴇ
+  ~ 洒点子哉 | sa3 tie3 tsy3 tse | sɑ51 tiɪ51 ·tsɿ ·tsᴇ
+  ~ 坏脱哉 | ua5 tseq7 tse | uɑ523-51 ·tsəʔ ·tsᴇ
+  ~ 马桶豁筅 | mo6 don6 huaeq7 sie | 
+  ~ 翘辫子哉 | chiau5 bie6 tsy3 tse | tɕʰiæ523-55 biɪ31-33 ·tsɿ ·tsᴇ
+  ~ 饭好哉 | ve6 hau3 tse | vᴇ31 hæ51 ·tsᴇ
+  ~ 枯焦哉 | khou1 tsiau1 tse | kʰəu55 tsiæ55 ·tsᴇ
+  ~ 饭枯焦哉 | ve6 khou1 tsiau1 tse | vᴇ31 kʰəu55 tsiæ55 ·tsᴇ
+  ~ 弹琵琶 | de2 bi2 bo | dᴇ223 bi223-33 ·bo
+  ~ 哉 | tse | ·tsᴇ
+IPA 残留乱码: 0
+拼音数字 vs IPA 调值冲突: 1
+  ! 纺织娘 [3] py:2 vs ipa:33 | faon3 tseq7 gnian2 | fɑ̃51 tsəʔ43-2 ȵiã-33

@@ -1,0 +1,13 @@
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const gen = fs.readFileSync(path.join(root, 'tools/gen_ipa_report.txt'), 'utf8');
+const lines = gen.split(/\r?\n/).filter(l => /^✓/.test(l));
+const entries = lines.filter(l => !l.includes('字头'));
+const charsL = lines.filter(l => l.includes('字头'));
+console.log('== 自动补齐词条 (' + (entries.length - 1) + ') ==');
+console.log(entries.slice(1, 50).join('\n'));
+console.log('');
+console.log('== 自动补齐字头 ==');
+console.log(charsL.join('\n'));

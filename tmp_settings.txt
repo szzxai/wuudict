@@ -1,0 +1,36 @@
+function viewSettings() {
+  main.innerHTML = '';
+  const pane = el('div', 'pane settings');
+  pane.appendChild(el('h2', '', T('顯示設置')));
+
+  pane.appendChild(el('h3', '', T('吳語拼音聲調表示法')));
+  const g1 = el('div', 'opt-group');
+  radioOpt(g1, 'toneStyle', 'digit', T('調類數字 —— 塒音節之後標 1–8（1 陰平 44、2 陽平 223、3 陰上 51、5 陰去 523、6 陽上去 231、7 陰入 43、8 陽入 23；陽上併陽去，故無 4）'), toneStyle === 'digit', () => setTone('toneStyle', 'digit'));
+  radioOpt(g1, 'toneStyle', 'mark', T('聲調附標 —— 依《吳語拼音文正字法》：ā á à ǎ â 分標 1/2/3/5/6 調，入聲（-q 尾）不標，輕聲不標'), toneStyle === 'mark', () => setTone('toneStyle', 'mark'));
+  pane.appendChild(g1);
+
+  pane.appendChild(el('h3', '', T('聲調依據')));
+  const g2 = el('div', 'opt-group');
+  radioOpt(g2, 'toneData', 'sandhi', T('連讀變調 —— 按吳語學堂記錄的詞中調值標注變調（推薦，與詞條音標一致）'), toneData === 'sandhi', () => setTone('toneData', 'sandhi'));
+  radioOpt(g2, 'toneData', 'cite', T('本字調 —— 各字按其單字調（引用調）標注'), toneData === 'cite', () => setTone('toneData', 'cite'));
+  pane.appendChild(g2);
+
+  // 即時示例
+  const demo = el('div', 'demo-box');
+  demo.appendChild(el('div', 'demo-head', T('示例：')));
+  for (const w of ['拖鞋皮', '滋味', '疙里疙瘩', '纸头店']) {
+    const idxs = wordMap.get(w);
+    if (!idxs) continue;
+    const e = ENTRIES[idxs[0]];
+    const row = el('div', 'demo-row');
+    row.appendChild(el('a', 'rw', T(e.w))).href = '#/w/' + encodeURIComponent(e.w);
+    row.appendChild(el('span', 'py demo-py', fmtPy(e.r, e.ct)));
+    if (e.i && e.i.trim()) row.appendChild(el('span', 'ipa', '/' + e.i.trim() + '/'));
+    demo.appendChild(row);
+  }
+  pane.appendChild(demo);
+  pane.appendChild(el('p', 'pinyin-note', T('設置即改即存（瀏覽器本地）。國際音標一律保留吳語學堂記錄的調值（含連讀變調），不受以上選項影響。')));
+  main.appendChild(pane);
+  document.title = '設置 — 東吳詞典';
+}
+
